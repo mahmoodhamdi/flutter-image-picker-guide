@@ -1,0 +1,19 @@
+name: image_picker_app
+description: "Flutter Image Picker Guide 📸"
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.3
+dependencies:
+  cupertino_icons: ^1.0.8
+  flutter:
+    sdk: flutter
+  image_picker: ^1.1.2
+dev_dependencies:
+  flutter_lints: ^4.0.0
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
